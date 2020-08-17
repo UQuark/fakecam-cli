@@ -4,7 +4,7 @@ import (
 	"os"
 	"strconv"
 
-	"github.com/UQuark0/fakecam/fcbe"
+	"github.com/UQuark0/fcbe"
 )
 
 func check(err error) {
