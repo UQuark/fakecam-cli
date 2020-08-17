@@ -1,4 +1,4 @@
-module github.com/UQuark0/FakeCam-CLI
+module github.com/UQuark0/fakecam-cli
 
 go 1.15
 
