@@ -1,1 +1,1 @@
-fakecam
+fakecam-cli
